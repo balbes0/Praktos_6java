@@ -1,6 +1,7 @@
 package net.aziz.mptmod.item;
 
 import net.aziz.mptmod.MptMod;
+import net.aziz.mptmod.item.armor.AmberArmorItem;
 import net.aziz.mptmod.item.armor.ModArmorMaterials;
 import net.aziz.mptmod.item.tools.*;
 import net.minecraft.world.entity.EquipmentSlot;
